@@ -1,0 +1,17 @@
+{
+  "pc": "com.zayvius.guide_40",
+  "kang_zayvius": [      
+     {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     },
+     {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     }
+  ]
+}
