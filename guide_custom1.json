@@ -1,7 +1,22 @@
 {
   "pc": "com.zayviusdigital.guide40",
-  "unity_ads": "3970843",
-  "kang_zayvius": [      
+  "Switch_ads": "1",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "3970843",
+      "Placement_banner": "bannerid",
+      "Placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
     {
       "id": "1",
       "tittle": "Guide 1",
