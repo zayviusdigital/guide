@@ -1,0 +1,35 @@
+{
+  "pc": "com.zayviusdigital.guide40",
+  "switch_ads": "1",
+  "unity_ads": [      
+    {
+      "id_switch": "1",
+      "id_unity_ads": "3970843",
+      "Placement_banner": "bannerid",
+      "Placement_inter": "video"
+     }
+  ],
+  "applovin": [      
+    {
+      "id_switch": "2",
+      "zone_banner": "29149b50a8c98c59",
+      "zone_inter": "70d116e79ba42436"
+     }
+  ],
+  "list_content": [      
+    {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "https://raw.githubusercontent.com/zayviusdigital/guide/main/2.html",
+      "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Truk_Muatan_Sound_System_LED%2B%2B_V2.zip",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     },
+    {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/zayviusdigital/guide/main/2.html",
+      "link_file": "",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     }
+  ]
+}
