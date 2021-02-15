@@ -1,0 +1,20 @@
+{
+  "pc": "com.zayviusdigital.guide40",
+  "unity_ads": "3970843",
+  "kang_zayvius": [      
+    {
+      "id": "1",
+      "tittle": "Guide 1",
+      "link_html": "https://raw.githubusercontent.com/zayviusdigital/guide/main/2.html",
+      "link_file": "https://archive.org/download/truk-muatan-sound-system-led-v-2/Bus%20Oleng/Truk_Muatan_Sound_System_LED%2B%2B_V2.zip",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     },
+    {
+      "id": "2",
+      "tittle": "Guide 2",
+      "link_html": "https://raw.githubusercontent.com/zayviusdigital/guide/main/2.html",
+      "link_file": "",
+      "images": "https://raw.githubusercontent.com/zayviusdigital/demo/main/fre%20ff.jpg"
+     }
+  ]
+}
