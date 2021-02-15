@@ -1,6 +1,7 @@
 {
   "pc": "com.zayviusdigital.guide40",
   "switch_ads": "1",
+  "interval_inter": "2",
   "unity_ads": [      
     {
       "id_switch": "1",
