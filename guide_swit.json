@@ -5,8 +5,8 @@
     {
       "id_switch": "1",
       "id_unity_ads": "3970843",
-      "Placement_banner": "bannerid",
-      "Placement_inter": "video"
+      "placement_banner": "bannerid",
+      "placement_inter": "video"
      }
   ],
   "applovin": [      
